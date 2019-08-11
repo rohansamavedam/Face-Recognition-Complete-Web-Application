@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Live version: https://samavedam-face-brain.herokuapp.com
+Currently Developing a MongoDB Database for the project. As of now, can sign in without any credentials.
 ## Available Scripts
 
 In the project directory, you can run:
